@@ -1,7 +1,7 @@
 # C# implementation of Extended Euclidean algorithm
 
 
-## Instructions for buiding and running the code
+## Instructions for building and running the code
 
 ## Compile (macOS)
 ```
